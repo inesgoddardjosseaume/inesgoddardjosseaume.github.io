@@ -12,9 +12,10 @@ inesjosseaume.fr
 
 ## Informations
 
-<b>Mobilité :</b> transports en commun, vélo, voiture (permis B et AM)
-<b>TJN :</b> 500€
-<b>Disponibilité :</b> asap | idéalement 1 jour par semaine en télétravail
+```markdown
+** Mobilité : ** transports en commun, vélo, voiture (permis B et AM)
+** TJN : ** 500€
+** Disponibilité : ** asap | idéalement 1 jour par semaine en télétravail
 
 
 ## Langues
@@ -25,7 +26,8 @@ inesjosseaume.fr
 
 ## Divers
 
-<b>Activités sportives</b>
+```markdown
+** Activités sportives **
 + Course à pieds (La Parisienne, Semi de Paris, course Royale, Semi de Bordeaux).
 + Sport en salle : yoga, rpm, cardio training, cardio en tous genres.
 + Lecture de biographies,théologie, indépendance financière.
@@ -34,25 +36,26 @@ inesjosseaume.fr
 
 ## Cursus scolaire
 
-<b>+ 2018 :</b> Formation AngularJS
+** + 2018 : ** Formation AngularJS
 Certification AngularJS (Orsys, Paris)
 
-<b>+ 2015 à 2016 :</b> Formation Intégrateur / Développeur web
+** + 2015 à 2016 : ** Formation Intégrateur / Développeur web
 Certification II Développeur Intégrateur Web (Ifocop, Montigny-le-Bretonneux)
 
-<b>+ 2015 :</b> TOEIC 720
+** + 2015 : ** TOEIC 720
 Diplôme technique d'anglais, certifié par l'État.
 
-<b>+ 2012 à 2015 :</b> Master I Direction Artistique
+** + 2012 à 2015 : ** Master I Direction Artistique
 (Sup de Pub, Londres)
 
-<b>+ 2008 à 2011 :</b> Baccalauréat Communication
+** + 2008 à 2011 : ** Baccalauréat Communication
 Section Européenne, mention AB (Notre-Dame du Grandchamp, Versailles)
 
 
 ## Parcours professionnel
 
-### De déc. 2019 à aujourd'hui : auto-entrepranariat conception de sites sur-mesure (Bordeaux)</h3>
+### De déc. 2019 à aujourd'hui : auto-entrepranariat conception de sites sur-mesure (Bordeaux)
+
 + Avec deux alternantes pour m'aider : une en communication et une autre en  Développement front.
 + Intégration Web, d’après maquettes graphiques créées par un/e Designer graphique.
 + Conception de sites vitrines et e-commerce.
@@ -67,7 +70,7 @@ Environnement technique :
 * Adobe
 * Git
 
-### De déc. 2018 à juin 2019 : Consultante Ametix - Développeuse Front à Foncia Stark (Paris)</h3>
+### De déc. 2018 à juin 2019 : Consultante Ametix - Développeuse Front à Foncia Stark (Paris)
 
 + Intégration Web, d’après maquettes graphiques créées par l’UI Designer.
 + Création et génération de PDF dynamiques.
@@ -87,7 +90,7 @@ Environnement technique :
 * Supervision : REST, Docker, Java8, Jira
 * Convention de nommage : Camel case
   
-### 07/2018 à 09/2018 : - Consultante Ametix - Développeuse Front à Renault Digital(Boulogne-Billancourt)</h3>
+### 07/2018 à 09/2018 : - Consultante Ametix - Développeuse Front à Renault Digital(Boulogne-Billancourt)
 
 Intégration de l’architecture Front actuelle vers Angular7. Projet d'application mobile et tablette en interne, afin de dynamiser l'environnement de travail entre les équipes d'Asie et d'Europe, qui se faisait sous Excel (application de rapport de test de développement de nouvelles gammes de voitures).
 + Débugs Front-End
