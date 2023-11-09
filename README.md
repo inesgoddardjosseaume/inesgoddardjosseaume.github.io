@@ -1,5 +1,19 @@
-## Parcours professionnel
+## Parcours
 
+### De sept. 2023 à fév. 2024 : projet de fin de formation en équipe (en distanciel, à Bordeaux)
+
++ 798 heures de formation au total.
++ 3 mois de socle (HTML, CSS, JavaScript, MySQL/Postgres)
++ 1 mois de spécialisation React.
++ 1 mois de projet : <a href="https://www.linkedin.com/in/ines-josseaume/" target="_blank">le voir</a>.
+
+Environnement technique :
+* Macintosh, Windows
+* Wordpress, PrestaShop
+* CSS, Less, Bootstrap, JS / JQuery, PHP
+* Adobe
+* Git
+* 
 ### De déc. 2019 à aujourd'hui : auto-entrepranariat conception de sites sur-mesure (Bordeaux)
 
 + Avec deux alternantes pour m'aider : une en communication et une autre en  Développement front.
