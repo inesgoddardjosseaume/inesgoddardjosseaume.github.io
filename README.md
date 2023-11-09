@@ -12,10 +12,9 @@ inesjosseaume.fr \
 
 ## Informations
 
-```markdown  \
-<b> Mobilité : </b> transports en commun, vélo, voiture (permis B et AM) \
-** TJN : ** 500€ \
-** Disponibilité : ** asap | idéalement 1 jour par semaine en télétravail
+<b>Mobilité :</b> transports en commun, vélo, voiture (permis B et AM) \
+<b>TJN :</b> 500€ \
+<b>Disponibilité :</b> asap | idéalement 1 jour par semaine en télétravail
 
 
 ## Langues
@@ -26,8 +25,7 @@ inesjosseaume.fr \
 
 ## Divers
 
-```markdown  \
-** Activités sportives **
+<b>Activités sportives</b>
 + Course à pieds (La Parisienne, Semi de Paris, course Royale, Semi de Bordeaux).
 + Sport en salle : yoga, rpm, cardio training, cardio en tous genres.
 + Lecture de biographies,théologie, indépendance financière.
@@ -36,22 +34,22 @@ inesjosseaume.fr \
 
 ## Cursus scolaire
 
-** + 2023 à 2024 : ** Formation JavaScript Fullstack spécialisation ReactJs
+<b>+ 2023 à 2024 :</b> Formation JavaScript Fullstack spécialisation ReactJs
 Certification niveau V et Qualiopi (O'Clock, siège à Paris, formation en distanciel)
 
-** + 2018 : ** Formation AngularJS
+<b>+ 2018 :</b> Formation AngularJS
 Certification AngularJS (Orsys, Paris)
 
-** + 2015 à 2016 : ** Formation Intégrateur / Développeur web
+<b>+ 2015 à 2016 :</b> Formation Intégrateur / Développeur web
 Certification niveau II Développeur Intégrateur Web (Ifocop, Montigny-le-Bretonneux)
 
-** + 2015 : ** TOEIC 720
+<b>+ 2015 :</b> TOEIC 720
 Diplôme technique d'anglais, certifié par l'État.
 
-** + 2012 à 2015 : ** Master I Direction Artistique
+<b>+ 2012 à 2015 :</b> Master I Direction Artistique
 (Sup de Pub, Londres)
 
-** + 2008 à 2011 : ** Baccalauréat Communication
+<b>+ 2008 à 2011 :</b> Baccalauréat Communication
 Section Européenne, mention AB (Notre-Dame du Grandchamp, Versailles)
 
 
@@ -65,7 +63,6 @@ Section Européenne, mention AB (Notre-Dame du Grandchamp, Versailles)
 + Maintenance sur hébergeur (transferts noms de domaine, création bases de données etc).
 + Maintenance pour des interventions pour des clients qui souhaitent refondre/modifier leurs applications web.
 
-```markdown \
 Environnement technique :
 * Macintosh, Windows
 * Wordpress, PrestaShop
@@ -80,7 +77,6 @@ Environnement technique :
 + Script de tests fonctionnels et techniques.
 + Coordination des tickets et travail sur terminal.
 
-```markdown \
 Environnement technique :
 * Macintosh
 * Moustach
@@ -100,7 +96,6 @@ Intégration de l’architecture Front actuelle vers Angular7. Projet d'applicat
 + Remplacement du style Front par Flex et Bootstrap.
 + Tests techniques
 
-```markdown \
 Environnement technique :
 * Macintosh
 * SASS, Bootstrap, Angular7
@@ -122,7 +117,6 @@ Environnement technique :
 + Travail et coordination des branches avec Git.
 + Tests techniques.
   
-```markdown \
 Environnement technique :
 * Linux, Machines Virtuelles
 * Twig, Less, Sass, JavaScript / JQuery
@@ -140,7 +134,6 @@ Environnement technique :
 + Proposition d’une nouvelle charte graphique.
 + Tests fonctionnels.
 
-```markdown \
 Environnement technique :
 * HTML / CSS, YML
 * Photoshop
