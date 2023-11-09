@@ -2,19 +2,21 @@
 
 ## Contact
 
-17 février 1992
-06 81 13 94 30
-isjosseaume@gmail.com
-25 rue de la Faïencerie | 33300 Bordeaux
-inesjosseaume.fr
+17 février 1992 \
+06 81 13 94 30 \
+
+```markdown
+isjosseaume@gmail.com \
+25 rue de la Faïencerie | 33300 Bordeaux \
+inesjosseaume.fr \
 @josseaume_conceptionsite
 
 
 ## Informations
 
 ```markdown
-** Mobilité : ** transports en commun, vélo, voiture (permis B et AM)
-** TJN : ** 500€
+** Mobilité : ** transports en commun, vélo, voiture (permis B et AM) \
+** TJN : ** 500€ \
 ** Disponibilité : ** asap | idéalement 1 jour par semaine en télétravail
 
 
@@ -36,11 +38,14 @@ inesjosseaume.fr
 
 ## Cursus scolaire
 
+** + 2023 à 2024 : ** Formation JavaScript Fullstack spécialisation ReactJs
+Certification niveau V et Qualiopi (O'Clock, siège à Paris, formation en distanciel)
+
 ** + 2018 : ** Formation AngularJS
 Certification AngularJS (Orsys, Paris)
 
 ** + 2015 à 2016 : ** Formation Intégrateur / Développeur web
-Certification II Développeur Intégrateur Web (Ifocop, Montigny-le-Bretonneux)
+Certification niveau II Développeur Intégrateur Web (Ifocop, Montigny-le-Bretonneux)
 
 ** + 2015 : ** TOEIC 720
 Diplôme technique d'anglais, certifié par l'État.
