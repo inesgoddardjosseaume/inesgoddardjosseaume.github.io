@@ -4,8 +4,6 @@
 
 17 février 1992 \
 06 81 13 94 30 \
-
-```markdown
 isjosseaume@gmail.com \
 25 rue de la Faïencerie | 33300 Bordeaux \
 inesjosseaume.fr \
@@ -14,8 +12,8 @@ inesjosseaume.fr \
 
 ## Informations
 
-```markdown
-** Mobilité : ** transports en commun, vélo, voiture (permis B et AM) \
+```markdown  \
+<b> Mobilité : </b> transports en commun, vélo, voiture (permis B et AM) \
 ** TJN : ** 500€ \
 ** Disponibilité : ** asap | idéalement 1 jour par semaine en télétravail
 
@@ -28,7 +26,7 @@ inesjosseaume.fr \
 
 ## Divers
 
-```markdown
+```markdown  \
 ** Activités sportives **
 + Course à pieds (La Parisienne, Semi de Paris, course Royale, Semi de Bordeaux).
 + Sport en salle : yoga, rpm, cardio training, cardio en tous genres.
@@ -67,7 +65,7 @@ Section Européenne, mention AB (Notre-Dame du Grandchamp, Versailles)
 + Maintenance sur hébergeur (transferts noms de domaine, création bases de données etc).
 + Maintenance pour des interventions pour des clients qui souhaitent refondre/modifier leurs applications web.
 
-```markdown
+```markdown \
 Environnement technique :
 * Macintosh, Windows
 * Wordpress, PrestaShop
@@ -82,7 +80,7 @@ Environnement technique :
 + Script de tests fonctionnels et techniques.
 + Coordination des tickets et travail sur terminal.
 
-```markdown
+```markdown \
 Environnement technique :
 * Macintosh
 * Moustach
@@ -102,7 +100,7 @@ Intégration de l’architecture Front actuelle vers Angular7. Projet d'applicat
 + Remplacement du style Front par Flex et Bootstrap.
 + Tests techniques
 
-```markdown
+```markdown \
 Environnement technique :
 * Macintosh
 * SASS, Bootstrap, Angular7
@@ -124,7 +122,7 @@ Environnement technique :
 + Travail et coordination des branches avec Git.
 + Tests techniques.
   
-```markdown
+```markdown \
 Environnement technique :
 * Linux, Machines Virtuelles
 * Twig, Less, Sass, JavaScript / JQuery
@@ -142,7 +140,7 @@ Environnement technique :
 + Proposition d’une nouvelle charte graphique.
 + Tests fonctionnels.
 
-```markdown
+```markdown \
 Environnement technique :
 * HTML / CSS, YML
 * Photoshop
