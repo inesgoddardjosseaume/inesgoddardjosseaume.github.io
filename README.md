@@ -1,19 +1,30 @@
-## Parcours
+# Inès Goddard Josseaume
+*Recherche d’un poste en tant que Développeuse Front spécialisation React*
 
-### De sept. 2023 à fév. 2024 : projet de fin de formation en équipe (en distanciel, à Bordeaux)
+|Coordonnées |Statut |Réseaux |Compétences |Langues |Savoir-être |Activités|
+|-------|-------|-------|-------|-------|-------|-------|
+|25 rue de la Faïencerie|17 février 1992|Instagram : josseaume_conceptionsite|Html, Sass, Less|Anglais : B2|Travail d’équipe|Bénévolat Croquette et Macadam|
+|33300 Bordeaux|Permis B, AM et bateau|LinkedIn : ines-josseaume|JavaScript|Espagnol : B1|Organisation|Sport en salle
+|06 81 13 94 30|-------|GitHub : inesgoddardjosseaume|React, Redux|-------|Créativité|-------|Courses à pieds|Lecture autobiographies et théologie
+|isjosseaume@gmail.com|-------|Site : https://inesjosseaume.fr|Semantic UI|-------|Curiosité|-------|
+|-------|-------|-------|Git|-------|Persévérance|-------|
+
+## Expérience
+
+### De sept. 2023 à mars 2024 : projet de fin de formation en équipe (en distanciel, à Bordeaux)
 
 + 798 heures de formation au total.
-+ 3 mois de socle (HTML, CSS, JavaScript, MySQL/Postgres)
-+ 1 mois de spécialisation React.
-+ 1 mois de projet : <a href="https://www.linkedin.com/in/ines-josseaume/" target="_blank">le voir</a>.
++ 3 mois de socle (JavaScript, MySQL/Postgres).
++ Spécialisation React.
++ 1 mois de projet d'une application interactive de jeux pour enfants de 3 à 6 ans : en équipe, de sa conception jusqu'au déploiement d'un MVP en méthodologie agile (méthodologie Scrum en 4 sprints : La Fabrique à Histoires).
 
 Environnement technique :
-* Macintosh, Windows
+* Macintosh, Machine virtuelle
 * Wordpress, PrestaShop
-* CSS, Less, Bootstrap, JS / JQuery, PHP
-* Adobe
+* CSS, Sass, Bootstrap, JS, React, Redux
+* Node.js
 * Git
-* 
+  
 ### De déc. 2019 à aujourd'hui : auto-entrepranariat conception de sites sur-mesure (Bordeaux)
 
 + Avec deux alternantes pour m'aider : une en communication et une autre en  Développement front.
@@ -23,9 +34,9 @@ Environnement technique :
 + Maintenance pour des interventions pour des clients qui souhaitent refondre/modifier leurs applications web.
 
 Environnement technique :
-* Macintosh, Windows
+* Macintosh
 * Wordpress, PrestaShop
-* CSS, Less, Bootstrap, JS / JQuery, PHP
+* CSS, Less, Bootstrap, JS, PHP
 * Adobe
 * Git
 
@@ -34,13 +45,13 @@ Environnement technique :
 + Intégration Web, d’après maquettes graphiques créées par l’UI Designer.
 + Création et génération de PDF dynamiques.
 + Script de tests fonctionnels et techniques.
-+ Coordination des tickets et travail sur terminal.
++ Coordination des tickets sur Jira et travail sur terminal.
 
 Environnement technique :
 * Macintosh
 * Moustach
 * Less, Bootstrap
-* JS / JQuery
+* JS
 * InVision
 * Git (dont GitLab et GitHub)
 * Méthode Agile
@@ -48,12 +59,12 @@ Environnement technique :
 * Supervision : REST, Docker, Java8, Jira
 * Convention de nommage : Camel case
   
-### 07/2018 à 09/2018 : - Consultante Ametix - Développeuse Front à Renault Digital(Boulogne-Billancourt)
+### De juil. à sept. 2018 : Consultante Ametix - Intégratrice web à Renault Digital (Boulogne-Billancourt)
 
-Intégration de l’architecture Front actuelle vers Angular7. Projet d'application mobile et tablette en interne, afin de dynamiser l'environnement de travail entre les équipes d'Asie et d'Europe, qui se faisait sous Excel (application de rapport de test de développement de nouvelles gammes de voitures).
-+ Débugs Front-End
++ Intégration de l’architecture Front actuelle vers Angular7. Projet d'application mobile et tablette en interne, afin de dynamiser l'environnement de travail entre les équipes d'Asie et d'Europe, qui se faisait sous Excel (application de rapport de test de développement de nouvelles gammes de voitures).
++ Débugs Front-end.
 + Remplacement du style Front par Flex et Bootstrap.
-+ Tests techniques
++ Tests techniques.
 
 Environnement technique :
 * Macintosh
@@ -66,7 +77,7 @@ Environnement technique :
 * Supervision : Docker
 * Convention de nommage : Camel case
 
-### De oct. 2017 à mai 2018 : Consultante Ametix - Développeuse Front-End à ProwebCE / EdenRed (Levallois-Perret)
+### De oct. 2017 à mai 2018 : Consultante Ametix - Intégratrice web à EdenRed (Levallois-Perret)
 
 + Refonte design graphique des composants du site Internet.
 + Intégration de ces composants sur le site de l'entreprise.
@@ -86,7 +97,7 @@ Environnement technique :
 * Supervision : Docker, React.Js
 * Convention de nommage : Camel case
 
-### De avr. 2017 à juil. 2017 : - Consultante Ametix - Intégratrice Web à Mediapart (Paris)
+### De avr. 2017 à juil. 2017 : Consultante Ametix - Intégratrice Web à Mediapart (Paris)
 
 + Refonte responsive HTML / CSS, de certaines pages web du site du journal.
 + Conception des bannières web, mailings, newsletters et interface d’abonnement.
@@ -98,5 +109,23 @@ Environnement technique :
 * Photoshop
 * InDesign, Selligent
 * MariaDB
-* Symfony3/4, PHP7.2
+* Symfony 3/4, PHP 7.2
 * Convention de nommage : Underscore case
+
+## Formation
+
+### De sept. 2023 à mars 2024
++ Formation Développeur web spé React - Titre pro V (O’Clock)
++ 798h (FullStack Javascript + spécialisation en React + réalisation d’un projet sur une application d’histoires interactives pour enfants).
+
+### Mai 2018
++ Formation AngularJS - Titre pro AngularJS à Orsys (Paris)
+
+### De 2015 à 2016
++ Formation Intégrateur & Développeur web - Titre pro V à Ifocop (Montigny-le-Bretonneux)
+
+### De 2012 à 2015
++ Master I Direction Artistique à Sup de Pub (Londres)
+
+### 2012
++ Bac. section Européenne mention AB à Notre-Dame du Grandchamp (Versailles)
