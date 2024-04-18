@@ -19,7 +19,7 @@ email: isjosseaume@gmail.com
 description: Voici un peu de mon parcours personnel et beaucoup de professionnel !
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://inesgoddardjosseaume.github.io/
-author: Inès Goddard Josseaume
+author:
   name: Inès Goddard Josseaume
   twitter:
   picture:
