@@ -35,6 +35,20 @@ https://inesjosseaume.fr \
 
 ## Expérience
 
+### De mai. 2024 à aujourd'hui : stage chez Les Martines (en distanciel, à Bordeaux)
+
++ Amélioration et développement des features sur l'application.
++ Organisation et découpages des taches sous Trello.
++ Amélioration des compétences sous React.
++ Prise en main de Firebase et du back-office sous Node.Js.
+
+Environnement technique :
+* Macintosh
+* React Native, Firebase
+* CSS, Redux, Node.Js
+* Node.js
+* Trello
+  
 ### De sept. 2023 à mars 2024 : projet de fin de formation en équipe (en distanciel, à Bordeaux)
 
 + 798 heures de formation au total.
